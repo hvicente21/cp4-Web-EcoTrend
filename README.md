@@ -1,12 +1,15 @@
-# React + Vite
+EcoTrend – Estilo Sustentável
+O EcoTrend é um e-commerce de moda e acessórios sustentáveis, desenvolvido em React para prática de front-end e Web Development moderno com foco em experiência do usuário e consumo consciente.
+A proposta é unir estilo + sustentabilidade, oferecendo peças e acessórios que respeitam o meio ambiente e toda a cadeia de produção, sem abrir mão do design e da qualidade.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Objetivo do Projeto
+Criar uma loja virtual funcional que:
 
-Currently, two official plugins are available:
+Exiba produtos sobre moda carregados via JSON
+Tenha filtros por categoria e preço
+Possua um carrinho de compras dinâmico
+Use localStorage para salvar o carrinho
+Simule um checkout assíncrono com feedback para o usuário
+Apresente um loading spinner durante requisições
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.

@@ -27,6 +27,7 @@ Apresente um **loading spinner** durante requisições
 ## Tecnologias
 - **React**
 - **JavaScript** 
-- **CSS responsivo**
-- **localStorage**
 - **Fetch API**
+- **localStorage**
+- **CSS responsivo**
+

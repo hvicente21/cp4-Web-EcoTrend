@@ -1,7 +1,7 @@
-/* Container base */
+
 .container{ max-width:1200px; margin:0 auto; padding:0 16px; }
 
-/* GRID de produtos */
+
 .grid-produtos{
   display:grid;
   grid-template-columns: repeat(4, minmax(0,1fr));
@@ -17,7 +17,7 @@
   .grid-produtos{ grid-template-columns: 1fr; }
 }
 
-/* CARD */
+
 .card-produto{
   background:#fff;
   border:1px solid #eee;
@@ -48,7 +48,7 @@
   font-weight:800;
   line-height:1.25;
   margin:6px 0 0;
-  color:#111;   /* troque aqui se quiser outra cor para o título do produto */
+  color:#111;   
 }
 
 .tag{

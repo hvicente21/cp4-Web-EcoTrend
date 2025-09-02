@@ -4,19 +4,19 @@
   align-items: center;
   padding: 15px 30px;
   background-color: var(--rosa-principal);
-  font-family: 'Poppins', sans-serif; /* você pode escolher qualquer fonte da importação */
+  font-family: 'Poppins', sans-serif; 
   color: var(--branco);
   box-shadow: 0 2px 5px rgba(185, 22, 22, 0.1);
 }
 
 .header h1 {
-  font-family: 'Patua One', cursive; /* destaque no logo EcoTrend */
+  font-family: 'Patua One';
   font-size: 2rem;
   margin: 0;
 }
 
 .botao-carrinho {
-  position: relative; /* necessário para posicionar a badge */
+  position: relative; 
   background: none;
   border: none;
   cursor: pointer;
@@ -32,7 +32,7 @@
   height: 35px;
 }
 
-/* NOVO: badge de quantidade */
+
 .badge {
   position: absolute;
   top: -8px;

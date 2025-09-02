@@ -31,3 +31,10 @@ Apresente um **loading spinner** durante requisições
 - **localStorage**
 - **CSS responsivo**
 
+---
+## Integrantes
+
+- Henrique Vicente (RM 564116)
+- Matheus Cerciari (RM 565817)
+- Luis Gustavo (RM 566023)
+- Arthur Gil (RM 555746)

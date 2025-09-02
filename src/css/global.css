@@ -1,8 +1,0 @@
-*{ box-sizing:border-box; }
-html,body,#root{ height:100%; }
-body{
-  margin:0;
-  font-family:'Roboto', sans-serif;
-  background:#F5F5DC;
-  color:#333333;
-}
